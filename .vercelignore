@@ -1,1 +1,6 @@
-/vendor
+node_modules
+vendor
+.env
+.env.*
+storage/*
+!.env.example
